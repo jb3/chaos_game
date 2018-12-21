@@ -14,9 +14,10 @@ The current values generate [Sierpinski Triangles](https://en.wikipedia.org/wiki
 
 ## Usage
 
+**Disclaimer: This project is horribly inefficient and requires a lot of processing power (it absolutely killed my laptop). However, the patterns are very nice**
+
 1. Clone the repository
 2. Install Elixir
 3. `mix deps.get` inside the project
 4. `mix scenic.run` inside the project
 5. profit.
-
